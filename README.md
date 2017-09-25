@@ -1,6 +1,8 @@
 SweetAlert v1 Documentation
 ==========
 
+> SweetAlert released v2 and [new site](https://sweetalert.js.org/), here is a v1 documentation backup.
+
 An awesome replacement for JavaScript's alert.
 
 ![A success modal](https://raw.github.com/t4t5/sweetalert/master/sweetalert.gif)
